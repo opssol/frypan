@@ -1,0 +1,8 @@
+{
+  "id": "lioneljwhite",
+  "ssh_keys": ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDj9tGChumuEfSAwKt4yQmQyqJVeDulkucUL0kS3SUuoq4OlSywn5OpMIbd0Oiow8NZMsturJ6nSkrLyaRte1da9lPogM9WyTPcR8OVWm9KprIbsqVuSzZeYzghdmQ6ffx4l1+w96gpf198AeGk8YRF3QzTMKA6Orry2pTX3U2Ier97ZZT7Bf1PY8tK519fFUA6y34Uz8w9tqONXv3usB5XtGuFYYs8+aLbIa4xMuOFiQT5CEufsqjDFzzVOsM64PqdfQBlsCGdNroSUcKaJG84p3o4q6D/DaFk899a0mphxQJWKO2eA1oIHaRTnqvqIjywL8nQ8SWoJ23QSXDRlRLl lionel@magnetic.com"],
+  "groups": ["sysadmin", "users"],
+  "uid": 2001,
+  "shell": "\/bin\/bash",
+  "comment": "Lionel J. White"
+}

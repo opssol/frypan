@@ -1,0 +1,8 @@
+{
+	"name":"corp",
+	"description":"Corp environment, for corporate services",
+	"json_class":"Chef::Environment",
+	"chef_type":"environment",
+	"default_attributes":{},
+	"override_attributes":{}
+}

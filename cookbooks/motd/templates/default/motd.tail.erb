@@ -1,0 +1,8 @@
+****************************
+Chef-Client: <%= node['fqdn'] %>
+Environment: <%= node.chef_environment %>
+Roles: <% @roles.sort.each do |role| -%>
+* <%= role %><% end -%>
+Recipes (in order):
+<% node['recipes'].each do |recipe| -%>  <%= recipe %> <% end -%>
+****************************
